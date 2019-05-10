@@ -1,0 +1,357 @@
+2019-04-26 17:09:08,734 INFO  [Log] DirectripsListener 
+2019-04-26 17:09:08,741 ERROR [Log] El archivo config.properties no se encontró 
+2019-04-26 17:09:08,755 INFO  [Log] onStart(org.testng.TestRunner@289d1c02) 
+2019-04-26 17:11:06,120 INFO  [Log] DirectripsListener 
+2019-04-26 17:11:06,131 INFO  [Log] onStart(org.testng.TestRunner@289d1c02) 
+2019-04-26 17:11:06,796 INFO  [Log] onTestSkipped([TestResult name=basicTest status=SKIP method=IoSampleTest.basicTest()[pri:0, instance:directripsViajeroAndroid.IoSampleTest@3cef309d] output={null}]) 
+2019-04-26 17:11:06,800 INFO  [Log] onFinish(org.testng.TestRunner@289d1c02) 
+2019-04-29 12:33:57,947 INFO  [Log] DirectripsAndroidListener 
+2019-04-29 12:33:57,972 INFO  [Log] onStart(org.testng.TestRunner@27808f31) 
+2019-04-29 12:33:58,936 INFO  [Log] Parámetros leidos: 1 
+2019-04-29 12:33:59,434 INFO  [Log] onTestSkipped([TestResult name=basicTest status=SKIP method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@73846619] output={null}]) 
+2019-04-29 12:33:59,469 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-29 12:33:59,470 INFO  [Log] onFinish(org.testng.TestRunner@27808f31) 
+2019-04-29 12:33:59,470 INFO  [Log] Added skipped table 
+2019-04-29 14:27:10,429 INFO  [Log] DirectripsAndroidListener 
+2019-04-29 14:27:10,447 INFO  [Log] onStart(org.testng.TestRunner@27808f31) 
+2019-04-29 14:27:11,217 INFO  [Log] Parámetros leidos: 1 
+2019-04-29 14:27:11,224 INFO  [Log] onTestFailure([TestResult name=basicTest status=FAILURE method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@73846619] output={null}]) 
+2019-04-29 14:27:11,255 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-29 14:27:11,257 INFO  [Log] onFinish(org.testng.TestRunner@27808f31) 
+2019-04-29 14:27:11,259 INFO  [Log] Added fail table 
+2019-04-29 14:28:02,444 INFO  [Log] DirectripsAndroidListener 
+2019-04-29 14:28:02,459 INFO  [Log] onStart(org.testng.TestRunner@27808f31) 
+2019-04-29 14:28:03,140 INFO  [Log] Parámetros leidos: 1 
+2019-04-29 14:28:03,707 INFO  [Log] onTestSkipped([TestResult name=basicTest status=SKIP method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@73846619] output={null}]) 
+2019-04-29 14:28:03,733 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-29 14:28:03,734 INFO  [Log] onFinish(org.testng.TestRunner@27808f31) 
+2019-04-29 14:28:03,734 INFO  [Log] Added skipped table 
+2019-04-29 14:30:01,317 INFO  [Log] DirectripsAndroidListener 
+2019-04-29 14:30:01,333 INFO  [Log] onStart(org.testng.TestRunner@27808f31) 
+2019-04-29 14:30:02,210 INFO  [Log] Parámetros leidos: 1 
+2019-04-29 14:30:09,398 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-29 14:30:09,398 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@73846619] output={null}]) 
+2019-04-29 14:30:09,409 INFO  [Log] Logeo del usuario 
+2019-04-29 14:30:09,424 INFO  [Log] onTestFailure([TestResult name=basicTest status=FAILURE method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@73846619] output={null}]) 
+2019-04-29 14:30:11,271 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-29 14:30:11,271 INFO  [Log] onFinish(org.testng.TestRunner@27808f31) 
+2019-04-29 14:30:11,273 INFO  [Log] Added fail table 
+2019-04-29 14:31:49,495 INFO  [Log] DirectripsAndroidListener 
+2019-04-29 14:31:49,511 INFO  [Log] onStart(org.testng.TestRunner@27808f31) 
+2019-04-29 14:31:50,280 INFO  [Log] Parámetros leidos: 1 
+2019-04-29 14:31:53,448 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-29 14:31:53,448 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@73846619] output={null}]) 
+2019-04-29 14:31:53,456 INFO  [Log] Logeo del usuario 
+2019-04-29 14:31:53,464 INFO  [Log] onTestFailure([TestResult name=basicTest status=FAILURE method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@73846619] output={null}]) 
+2019-04-29 14:31:55,223 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-29 14:31:55,224 INFO  [Log] onFinish(org.testng.TestRunner@27808f31) 
+2019-04-29 14:31:55,227 INFO  [Log] Added fail table 
+2019-04-29 14:33:02,466 INFO  [Log] DirectripsAndroidListener 
+2019-04-29 14:33:02,479 INFO  [Log] onStart(org.testng.TestRunner@27808f31) 
+2019-04-29 14:33:03,159 INFO  [Log] Parámetros leidos: 1 
+2019-04-29 14:33:06,231 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-29 14:33:06,232 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@73846619] output={null}]) 
+2019-04-29 14:33:11,246 INFO  [Log] Logeo del usuario 
+2019-04-29 14:33:11,256 INFO  [Log] onTestFailure([TestResult name=basicTest status=FAILURE method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@73846619] output={null}]) 
+2019-04-29 14:33:12,753 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-29 14:33:12,754 INFO  [Log] onFinish(org.testng.TestRunner@27808f31) 
+2019-04-29 14:33:12,756 INFO  [Log] Added fail table 
+2019-04-29 14:34:33,663 INFO  [Log] DirectripsAndroidListener 
+2019-04-29 14:34:33,677 INFO  [Log] onStart(org.testng.TestRunner@27808f31) 
+2019-04-29 14:34:34,476 INFO  [Log] Parámetros leidos: 1 
+2019-04-29 14:34:39,146 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-29 14:34:39,147 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@73846619] output={null}]) 
+2019-04-29 14:34:44,183 INFO  [Log] Logeo del usuario 
+2019-04-29 14:35:01,519 INFO  [Log] Acepta notificaciones 
+2019-04-29 14:35:01,601 INFO  [Log] Hace tap en el campo de busqueda 
+2019-04-29 14:35:42,222 INFO  [Log] DirectripsAndroidListener 
+2019-04-29 14:35:42,244 INFO  [Log] onStart(org.testng.TestRunner@27808f31) 
+2019-04-29 14:35:43,129 INFO  [Log] Parámetros leidos: 1 
+2019-04-29 14:35:47,769 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-29 14:35:47,769 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@73846619] output={null}]) 
+2019-04-29 14:35:52,788 INFO  [Log] Logeo del usuario 
+2019-04-29 14:36:34,875 INFO  [Log] onTestFailure([TestResult name=basicTest status=FAILURE method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@73846619] output={null}]) 
+2019-04-29 14:36:37,005 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-29 14:36:37,006 INFO  [Log] onFinish(org.testng.TestRunner@27808f31) 
+2019-04-29 14:36:37,008 INFO  [Log] Added fail table 
+2019-04-29 14:37:17,068 INFO  [Log] DirectripsAndroidListener 
+2019-04-29 14:37:17,087 INFO  [Log] onStart(org.testng.TestRunner@27808f31) 
+2019-04-29 14:37:17,915 INFO  [Log] Parámetros leidos: 1 
+2019-04-29 14:37:21,824 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-29 14:37:21,826 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@73846619] output={null}]) 
+2019-04-29 14:37:21,838 INFO  [Log] Logeo del usuario 
+2019-04-29 14:37:59,831 INFO  [Log] Acepta notificaciones 
+2019-04-29 14:38:03,086 INFO  [Log] Hace tap en el campo de busqueda 
+2019-04-29 14:39:26,562 INFO  [Log] onTestFailure([TestResult name=basicTest status=FAILURE method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@73846619] output={null}]) 
+2019-04-29 14:39:28,796 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-29 14:39:28,797 INFO  [Log] onFinish(org.testng.TestRunner@27808f31) 
+2019-04-29 14:39:28,801 INFO  [Log] Added fail table 
+2019-04-29 14:40:43,017 INFO  [Log] DirectripsAndroidListener 
+2019-04-29 14:40:43,032 INFO  [Log] onStart(org.testng.TestRunner@27808f31) 
+2019-04-29 14:40:43,722 INFO  [Log] Parámetros leidos: 1 
+2019-04-29 14:40:47,242 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-29 14:40:47,243 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@73846619] output={null}]) 
+2019-04-29 14:40:47,259 INFO  [Log] Logeo del usuario 
+2019-04-29 14:41:06,792 INFO  [Log] Acepta notificaciones 
+2019-04-29 14:41:09,942 INFO  [Log] Hace tap en el campo de busqueda 
+2019-04-29 14:42:19,055 INFO  [Log] onTestFailure([TestResult name=basicTest status=FAILURE method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@73846619] output={null}]) 
+2019-04-29 14:42:20,747 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-29 14:42:20,748 INFO  [Log] onFinish(org.testng.TestRunner@27808f31) 
+2019-04-29 14:42:20,754 INFO  [Log] Added fail table 
+2019-04-29 14:44:18,183 INFO  [Log] DirectripsAndroidListener 
+2019-04-29 14:44:18,196 INFO  [Log] onStart(org.testng.TestRunner@2c039ac6) 
+2019-04-29 14:44:18,933 INFO  [Log] Parámetros leidos: 1 
+2019-04-29 14:44:22,461 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-29 14:44:22,462 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-29 14:44:22,477 INFO  [Log] Logeo del usuario 
+2019-04-29 14:44:41,894 INFO  [Log] Acepta notificaciones 
+2019-04-29 14:44:45,055 INFO  [Log] Hace tap en el campo de busqueda 
+2019-04-29 14:46:20,539 INFO  [Log] onTestFailure([TestResult name=basicTest status=FAILURE method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-29 14:46:23,575 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-29 14:46:23,578 INFO  [Log] onFinish(org.testng.TestRunner@2c039ac6) 
+2019-04-29 14:46:23,587 INFO  [Log] Added fail table 
+2019-04-29 16:34:19,651 INFO  [Log] DirectripsAndroidListener 
+2019-04-29 16:34:19,704 INFO  [Log] onStart(org.testng.TestRunner@2c039ac6) 
+2019-04-29 16:34:20,979 INFO  [Log] Parámetros leidos: 1 
+2019-04-29 16:34:21,557 INFO  [Log] onTestSkipped([TestResult name=basicTest status=SKIP method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-29 16:34:21,584 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-29 16:34:21,598 INFO  [Log] onFinish(org.testng.TestRunner@2c039ac6) 
+2019-04-29 16:34:21,598 INFO  [Log] Added skipped table 
+2019-04-29 16:37:36,853 INFO  [Log] DirectripsAndroidListener 
+2019-04-29 16:37:36,867 INFO  [Log] onStart(org.testng.TestRunner@2c039ac6) 
+2019-04-29 16:37:37,643 INFO  [Log] Parámetros leidos: 1 
+2019-04-29 16:37:42,055 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-29 16:37:42,056 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-29 16:37:42,065 INFO  [Log] Logeo del usuario 
+2019-04-29 16:38:02,224 INFO  [Log] Acepta notificaciones 
+2019-04-29 16:38:05,418 INFO  [Log] Busca el paramTexto 
+2019-04-29 16:38:35,625 INFO  [Log] onTestFailure([TestResult name=basicTest status=FAILURE method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-29 16:38:37,433 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-29 16:38:37,434 INFO  [Log] onFinish(org.testng.TestRunner@2c039ac6) 
+2019-04-29 16:38:37,438 INFO  [Log] Added fail table 
+2019-04-29 16:55:31,910 INFO  [Log] DirectripsAndroidListener 
+2019-04-29 16:55:31,926 INFO  [Log] onStart(org.testng.TestRunner@2c039ac6) 
+2019-04-29 16:55:32,677 INFO  [Log] Parámetros leidos: 1 
+2019-04-29 16:55:37,035 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-29 16:55:37,037 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-29 16:55:37,044 INFO  [Log] Logeo del usuario 
+2019-04-29 16:55:57,153 INFO  [Log] Acepta notificaciones 
+2019-04-29 16:57:48,724 INFO  [Log] DirectripsAndroidListener 
+2019-04-29 16:57:48,737 INFO  [Log] onStart(org.testng.TestRunner@2c039ac6) 
+2019-04-29 16:57:49,534 INFO  [Log] Parámetros leidos: 1 
+2019-04-29 16:57:54,597 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-29 16:57:54,597 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-29 16:57:54,610 INFO  [Log] Logeo del usuario 
+2019-04-29 16:58:13,322 INFO  [Log] Acepta notificaciones 
+2019-04-29 16:58:16,493 INFO  [Log] Hace tap en el campo de busqueda 
+2019-04-29 16:58:57,526 INFO  [Log] DirectripsAndroidListener 
+2019-04-29 16:58:57,552 INFO  [Log] onStart(org.testng.TestRunner@2c039ac6) 
+2019-04-29 16:58:58,388 INFO  [Log] Parámetros leidos: 1 
+2019-04-29 16:59:02,899 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-29 16:59:02,901 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-29 16:59:02,914 INFO  [Log] Logeo del usuario 
+2019-04-29 16:59:16,323 INFO  [Log] Acepta notificaciones 
+2019-04-29 16:59:21,694 INFO  [Log] Hace tap en el campo de busqueda 
+2019-04-29 17:00:20,334 INFO  [Log] DirectripsAndroidListener 
+2019-04-29 17:00:20,362 INFO  [Log] onStart(org.testng.TestRunner@2c039ac6) 
+2019-04-29 17:00:21,522 INFO  [Log] Parámetros leidos: 1 
+2019-04-29 17:00:26,624 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-29 17:00:26,631 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-29 17:00:26,652 INFO  [Log] Logeo del usuario 
+2019-04-29 17:00:41,163 INFO  [Log] Acepta notificaciones 
+2019-04-29 17:00:41,827 INFO  [Log] Busca el paramTexto 
+2019-04-29 17:01:12,076 INFO  [Log] onTestFailure([TestResult name=basicTest status=FAILURE method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-29 17:01:13,978 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-29 17:01:13,984 INFO  [Log] onFinish(org.testng.TestRunner@2c039ac6) 
+2019-04-29 17:01:13,988 INFO  [Log] Added fail table 
+2019-04-29 17:01:59,846 INFO  [Log] DirectripsAndroidListener 
+2019-04-29 17:01:59,861 INFO  [Log] onStart(org.testng.TestRunner@2c039ac6) 
+2019-04-29 17:02:00,599 INFO  [Log] Parámetros leidos: 1 
+2019-04-29 17:02:03,809 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-29 17:02:03,809 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-29 17:02:03,820 INFO  [Log] Logeo del usuario 
+2019-04-29 17:02:20,274 INFO  [Log] Acepta notificaciones 
+2019-04-29 17:02:23,645 INFO  [Log] Hace tap en el campo de busqueda 
+2019-04-29 17:03:15,192 INFO  [Log] onTestFailure([TestResult name=basicTest status=FAILURE method=IoSampleTest.basicTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-29 17:03:17,372 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-29 17:03:17,373 INFO  [Log] onFinish(org.testng.TestRunner@2c039ac6) 
+2019-04-29 17:03:17,379 INFO  [Log] Added fail table 
+2019-04-30 13:03:31,882 INFO  [Log] DirectripsAndroidListener 
+2019-04-30 13:03:31,896 INFO  [Log] onStart(org.testng.TestRunner@2c039ac6) 
+2019-04-30 13:03:32,707 INFO  [Log] Parámetros leidos: 1 
+2019-04-30 13:03:36,416 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-30 13:03:36,416 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-30 13:03:36,429 INFO  [Log] Logeo del usuario 
+2019-04-30 13:04:20,354 INFO  [Log] onTestFailure([TestResult name=basicTest status=FAILURE method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-30 13:04:22,525 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-30 13:04:22,527 INFO  [Log] onFinish(org.testng.TestRunner@2c039ac6) 
+2019-04-30 13:04:22,530 INFO  [Log] Added fail table 
+2019-04-30 14:45:21,248 INFO  [Log] DirectripsAndroidListener 
+2019-04-30 14:45:21,260 INFO  [Log] onStart(org.testng.TestRunner@2c039ac6) 
+2019-04-30 14:45:22,054 INFO  [Log] Parámetros leidos: 1 
+2019-04-30 14:45:25,196 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-30 14:45:25,198 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-30 14:45:25,211 INFO  [Log] Logeo del usuario 
+2019-04-30 14:45:41,298 INFO  [Log] Acepta notificaciones 
+2019-04-30 14:45:44,795 INFO  [Log] Hace tap en el campo de busqueda 
+2019-04-30 14:46:07,986 INFO  [Log] onTestSuccess([TestResult name=basicTest status=SUCCESS method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-30 14:46:09,627 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-30 14:46:09,629 INFO  [Log] onFinish(org.testng.TestRunner@2c039ac6) 
+2019-04-30 14:46:09,633 INFO  [Log] Added success table 
+2019-04-30 14:46:13,227 INFO  [Log] DirectripsAndroidListener 
+2019-04-30 14:46:13,247 INFO  [Log] onStart(org.testng.TestRunner@2c039ac6) 
+2019-04-30 14:46:14,124 INFO  [Log] Parámetros leidos: 1 
+2019-04-30 14:46:17,536 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-30 14:46:17,537 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-30 14:46:17,555 INFO  [Log] Logeo del usuario 
+2019-04-30 14:46:33,055 INFO  [Log] Acepta notificaciones 
+2019-04-30 14:46:36,343 INFO  [Log] Hace tap en el campo de busqueda 
+2019-04-30 14:46:36,964 INFO  [Log] onTestSuccess([TestResult name=basicTest status=SUCCESS method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-30 14:46:38,127 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-30 14:46:38,129 INFO  [Log] onFinish(org.testng.TestRunner@2c039ac6) 
+2019-04-30 14:46:38,138 INFO  [Log] Added success table 
+2019-04-30 14:49:41,296 INFO  [Log] DirectripsAndroidListener 
+2019-04-30 14:49:41,311 INFO  [Log] onStart(org.testng.TestRunner@2c039ac6) 
+2019-04-30 14:49:42,119 INFO  [Log] Parámetros leidos: 1 
+2019-04-30 14:49:45,323 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-30 14:49:45,324 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-30 14:49:45,332 INFO  [Log] Logeo del usuario 
+2019-04-30 14:50:01,160 INFO  [Log] Acepta notificaciones 
+2019-04-30 14:50:09,580 INFO  [Log] Hace tap en el campo de busqueda 
+2019-04-30 14:50:55,594 INFO  [Log] No existe el elemento buscado ..... An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'veureka-Inspiron-5567', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.15.0-48-generic', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: directrips.viajero.function..., appPackage: directrips.viajero, databaseEnabled: false, desired: {appActivity: directrips.viajero.function..., appPackage: directrips.viajero, deviceName: Galaxy Nexus API 24, noReset: false, platformName: android, platformVersion: 7.0, skipUnlock: true, udid: emulator-5554}, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenSize: 720x1280, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: false, platform: LINUX, platformName: Android, platformVersion: 7.0, skipUnlock: true, takesScreenshot: true, udid: emulator-5554, warnings: {}, webStorageEnabled: false}
+Session ID: 41198752-90dd-4f80-8c9d-4642e6cf9cf6
+*** Element info: {Using=id, value=directrips.viajero:id/textView_inputQuery} 
+2019-04-30 14:50:55,599 INFO  [Log] onTestFailure([TestResult name=basicTest status=FAILURE method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-30 14:50:57,393 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-30 14:50:57,395 INFO  [Log] onFinish(org.testng.TestRunner@2c039ac6) 
+2019-04-30 14:50:57,403 INFO  [Log] Added fail table 
+2019-04-30 14:52:13,088 INFO  [Log] DirectripsAndroidListener 
+2019-04-30 14:52:13,105 INFO  [Log] onStart(org.testng.TestRunner@2c039ac6) 
+2019-04-30 14:52:13,948 INFO  [Log] Parámetros leidos: 1 
+2019-04-30 14:52:17,826 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-30 14:52:17,826 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-30 14:52:17,835 INFO  [Log] Logeo del usuario 
+2019-04-30 14:52:35,054 INFO  [Log] Acepta notificaciones 
+2019-04-30 14:52:43,481 INFO  [Log] Hace tap en el campo de busqueda 
+2019-04-30 14:53:37,838 INFO  [Log] No existe el elemento buscado ..... An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'veureka-Inspiron-5567', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.15.0-48-generic', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: directrips.viajero.function..., appPackage: directrips.viajero, databaseEnabled: false, desired: {appActivity: directrips.viajero.function..., appPackage: directrips.viajero, deviceName: Galaxy Nexus API 24, noReset: false, platformName: android, platformVersion: 7.0, skipUnlock: true, udid: emulator-5554}, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenSize: 720x1280, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: false, platform: LINUX, platformName: Android, platformVersion: 7.0, skipUnlock: true, takesScreenshot: true, udid: emulator-5554, warnings: {}, webStorageEnabled: false}
+Session ID: 9df9011b-e71f-4ab9-b607-e1fadeee06e6
+*** Element info: {Using=id, value=directrips.viajero:id/imageView_lens_login} 
+2019-04-30 14:53:37,842 INFO  [Log] onTestFailure([TestResult name=basicTest status=FAILURE method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-30 14:53:39,723 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-30 14:53:39,724 INFO  [Log] onFinish(org.testng.TestRunner@2c039ac6) 
+2019-04-30 14:53:39,726 INFO  [Log] Added fail table 
+2019-04-30 15:12:09,277 INFO  [Log] DirectripsAndroidListener 
+2019-04-30 15:12:09,291 INFO  [Log] onStart(org.testng.TestRunner@2c039ac6) 
+2019-04-30 15:12:10,084 INFO  [Log] Parámetros leidos: 1 
+2019-04-30 15:12:15,328 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-30 15:12:15,328 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-30 15:12:15,339 INFO  [Log] Logeo del usuario 
+2019-04-30 15:12:32,557 INFO  [Log] Acepta notificaciones 
+2019-04-30 15:12:40,881 INFO  [Log] Hace tap en el campo de busqueda 
+2019-04-30 15:13:03,556 INFO  [Log] No existe el elemento buscado ..... An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'veureka-Inspiron-5567', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.15.0-48-generic', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: directrips.viajero.function..., appPackage: directrips.viajero, databaseEnabled: false, desired: {appActivity: directrips.viajero.function..., appPackage: directrips.viajero, deviceName: Galaxy Nexus API 24, noReset: false, platformName: android, platformVersion: 7.0, skipUnlock: true, udid: emulator-5554}, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenSize: 720x1280, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: false, platform: LINUX, platformName: Android, platformVersion: 7.0, skipUnlock: true, takesScreenshot: true, udid: emulator-5554, warnings: {}, webStorageEnabled: false}
+Session ID: 85f61243-549b-40f1-a2fe-b6e4fbb328ba
+*** Element info: {Using=id, value=directrips.viajero:id/imageView_lens_login} 
+2019-04-30 15:13:03,560 INFO  [Log] onTestFailure([TestResult name=basicTest status=FAILURE method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-30 15:13:05,286 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-30 15:13:05,287 INFO  [Log] onFinish(org.testng.TestRunner@2c039ac6) 
+2019-04-30 15:13:05,292 INFO  [Log] Added fail table 
+2019-04-30 16:22:58,699 INFO  [Log] DirectripsAndroidListener 
+2019-04-30 16:22:58,713 INFO  [Log] onStart(org.testng.TestRunner@2c039ac6) 
+2019-04-30 16:22:59,502 INFO  [Log] Parámetros leidos: 1 
+2019-04-30 16:23:00,205 INFO  [Log] onTestSkipped([TestResult name=basicTest status=SKIP method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-30 16:23:00,224 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-30 16:23:00,224 INFO  [Log] onFinish(org.testng.TestRunner@2c039ac6) 
+2019-04-30 16:23:00,224 INFO  [Log] Added skipped table 
+2019-04-30 16:24:11,904 INFO  [Log] DirectripsAndroidListener 
+2019-04-30 16:24:11,922 INFO  [Log] onStart(org.testng.TestRunner@2c039ac6) 
+2019-04-30 16:24:12,838 INFO  [Log] Parámetros leidos: 1 
+2019-04-30 16:24:18,243 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-30 16:24:18,244 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-30 16:24:18,264 INFO  [Log] Logeo del usuario 
+2019-04-30 16:24:35,235 INFO  [Log] Acepta notificaciones 
+2019-04-30 16:24:49,008 INFO  [Log] Hace tap en el campo de busqueda 
+2019-04-30 16:25:48,144 INFO  [Log] No existe el elemento buscado ..... An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'veureka-Inspiron-5567', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.15.0-48-generic', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: directrips.viajero.function..., appPackage: directrips.viajero, databaseEnabled: false, desired: {appActivity: directrips.viajero.function..., appPackage: directrips.viajero, deviceName: Galaxy Nexus API 24, noReset: false, platformName: android, platformVersion: 7.0, skipUnlock: true, udid: emulator-5554}, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenSize: 720x1280, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: false, platform: LINUX, platformName: Android, platformVersion: 7.0, skipUnlock: true, takesScreenshot: true, udid: emulator-5554, warnings: {}, webStorageEnabled: false}
+Session ID: 199d3b11-f978-4b73-b526-c04660028a97
+*** Element info: {Using=id, value=directrips.viajero:id/textView_inputQuery} 
+2019-04-30 16:25:48,152 INFO  [Log] onTestFailure([TestResult name=basicTest status=FAILURE method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-30 16:25:49,637 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-30 16:25:49,638 INFO  [Log] onFinish(org.testng.TestRunner@2c039ac6) 
+2019-04-30 16:25:49,641 INFO  [Log] Added fail table 
+2019-04-30 16:27:38,638 INFO  [Log] DirectripsAndroidListener 
+2019-04-30 16:27:38,659 INFO  [Log] onStart(org.testng.TestRunner@2c039ac6) 
+2019-04-30 16:27:39,537 INFO  [Log] Parámetros leidos: 1 
+2019-04-30 16:27:43,609 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-30 16:27:43,609 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-30 16:27:43,621 INFO  [Log] Logeo del usuario 
+2019-04-30 16:27:59,281 INFO  [Log] Acepta notificaciones 
+2019-04-30 16:28:12,956 INFO  [Log] Hace tap en el campo de busqueda 
+2019-04-30 16:28:48,941 INFO  [Log] Busca el paramTexto 
+2019-04-30 16:29:03,477 INFO  [Log] onTestSuccess([TestResult name=basicTest status=SUCCESS method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-30 16:29:04,568 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-30 16:29:04,569 INFO  [Log] onFinish(org.testng.TestRunner@2c039ac6) 
+2019-04-30 16:29:04,571 INFO  [Log] Added success table 
+2019-04-30 16:30:27,017 INFO  [Log] DirectripsAndroidListener 
+2019-04-30 16:30:27,032 INFO  [Log] onStart(org.testng.TestRunner@2c039ac6) 
+2019-04-30 16:30:27,754 INFO  [Log] Parámetros leidos: 1 
+2019-04-30 16:30:31,479 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-30 16:30:31,480 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-30 16:30:31,489 INFO  [Log] Logeo del usuario 
+2019-04-30 16:30:47,825 INFO  [Log] Acepta notificaciones 
+2019-04-30 16:31:06,264 INFO  [Log] Hace tap en el campo de busqueda 
+2019-04-30 16:48:43,571 INFO  [Log] DirectripsAndroidListener 
+2019-04-30 16:48:43,588 INFO  [Log] onStart(org.testng.TestRunner@2c039ac6) 
+2019-04-30 16:48:44,463 INFO  [Log] Parámetros leidos: 1 
+2019-04-30 16:48:47,581 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-30 16:48:47,582 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-30 16:48:47,593 INFO  [Log] Logeo del usuario 
+2019-04-30 16:49:22,466 INFO  [Log] onTestFailure([TestResult name=basicTest status=FAILURE method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-30 16:49:23,983 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-30 16:49:23,986 INFO  [Log] onFinish(org.testng.TestRunner@2c039ac6) 
+2019-04-30 16:49:23,988 INFO  [Log] Added fail table 
+2019-04-30 16:49:31,530 INFO  [Log] DirectripsAndroidListener 
+2019-04-30 16:49:31,542 INFO  [Log] onStart(org.testng.TestRunner@2c039ac6) 
+2019-04-30 16:49:32,263 INFO  [Log] Parámetros leidos: 1 
+2019-04-30 16:49:35,771 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-30 16:49:35,771 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-30 16:49:35,778 INFO  [Log] Logeo del usuario 
+2019-04-30 16:50:10,751 INFO  [Log] onTestFailure([TestResult name=basicTest status=FAILURE method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-30 16:50:12,368 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-30 16:50:12,369 INFO  [Log] onFinish(org.testng.TestRunner@2c039ac6) 
+2019-04-30 16:50:12,373 INFO  [Log] Added fail table 
+2019-04-30 16:53:06,832 INFO  [Log] DirectripsAndroidListener 
+2019-04-30 16:53:06,846 INFO  [Log] onStart(org.testng.TestRunner@2c039ac6) 
+2019-04-30 16:53:07,536 INFO  [Log] Parámetros leidos: 1 
+2019-04-30 16:53:07,977 INFO  [Log] onTestSkipped([TestResult name=basicTest status=SKIP method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@5025a98f] output={null}]) 
+2019-04-30 16:53:07,993 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-30 16:53:07,994 INFO  [Log] onFinish(org.testng.TestRunner@2c039ac6) 
+2019-04-30 16:53:07,994 INFO  [Log] Added skipped table 
+2019-04-30 16:54:28,466 INFO  [Log] DirectripsAndroidListener 
+2019-04-30 16:54:28,481 INFO  [Log] onStart(org.testng.TestRunner@31f9b85e) 
+2019-04-30 16:54:40,954 INFO  [Log] Parámetros leidos: 1 
+2019-04-30 16:54:45,078 INFO  [Log] startTestCase -> IoSampleTest 
+2019-04-30 16:54:45,078 INFO  [Log] onTestStart([TestResult name=basicTest status=STARTED method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@40ef3420] output={null}]) 
+2019-04-30 16:54:52,119 INFO  [Log] Logeo del usuario 
+2019-04-30 16:56:05,043 INFO  [Log] onTestFailure([TestResult name=basicTest status=FAILURE method=IoSampleTest.basicTest([Ljava.lang.String;)[pri:0, instance:directripsViajeroAndroid.IoSampleTest@40ef3420] output={null}]) 
+2019-04-30 16:56:07,249 INFO  [Log] endTestCase -> IoSampleTest 
+2019-04-30 16:56:07,250 INFO  [Log] onFinish(org.testng.TestRunner@31f9b85e) 
+2019-04-30 16:56:07,253 INFO  [Log] Added fail table 
